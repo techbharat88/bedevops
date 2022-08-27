@@ -1,6 +1,7 @@
 from re import L
 import pandas as pd
 from openpyxl import load_workbook
+<<<<<<< HEAD
 a = pd.DataFrame()
 
 l = ['Great Britain','China','Russia','United States','Korea','Japan', 'Germany']
@@ -16,3 +17,6 @@ df = pd.read_excel('Data.xlsx')
 b = pd.DataFrame(df)
 
 print(b)
+=======
+a = pd.DataFrame()
+>>>>>>> master
