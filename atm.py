@@ -19,4 +19,5 @@ else:
     if c==7866:
         print("Your available balance is ", m)
 
+print("Thanks a lot")
 
